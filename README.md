@@ -16,7 +16,7 @@
 
 - GeoIP Database 
 
-#### Depedencies
+#### Dependencies
 
 - Proxychains4 For scanning through tor or socks 
 
